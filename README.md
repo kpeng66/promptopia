@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This project allows users to log in and perform CRUD operations on useful Chat-GPT prompts to share with other users. This project is built with Next.js, React, MongoDB, & Tailwind CSS and deployed with Vercel. 
+This project allows users to log in and perform CRUD operations on useful Chat-GPT prompts to share with other users. This project is built with Next.js, JavaScript, React, MongoDB, & Tailwind CSS and deployed with Vercel. 
 
 ## Getting Started
 
